@@ -1,6 +1,6 @@
 # Sensor Fusion Self-Driving Car Course
 
-<img src="https://github.com/awbrown90/SensorFusionHighway/blob/master/media/ObstacleDetectionFPS.gif" width="700" height="400" />
+<img src="https://github.com/Kush-Sh/Lidar-Obstacle-Detection/blob/main/pcdstreamdetection.gif" width="948" height="532" />
 
 ### Welcome to the Sensor Fusion course for self-driving cars.
 
@@ -27,5 +27,5 @@ A few updates to the instructions above were needed.
 * libvtk needed to be updated to libvtk6-dev instead of (libvtk5-dev). The linker was having trouble locating libvtk5-dev while building, but this might not be a problem for everyone.
 
 * BUILD_visualization needed to be manually turned on, this link shows you how to do that,
-http://www.pointclouds.org/documentation/tutorials/building_pcl.php
+https://pcl.readthedocs.io/projects/tutorials/en/latest/#visualization
 
