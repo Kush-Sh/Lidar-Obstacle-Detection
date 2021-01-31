@@ -3,7 +3,7 @@
 <img src="https://github.com/Kush-Sh/Lidar-Obstacle-Detection/blob/main/pcdstreamdetection.gif" width="948" height="532" />
 
 # Real World Point Cloud
-<img src="https://github.com/Kush-Sh/Lidar-Obstacle-Detection/blob/main/Point%20cloud.jpg" width="1597" height="840" />
+<img src="https://github.com/Kush-Sh/Lidar-Obstacle-Detection/blob/main/Point%20cloud.jpg" width="948" height="532" />
 
 ### Welcome to the lidar obstacle detection project for self-driving cars.
 
